@@ -1,1 +1,1 @@
-import IZAAK.so
+import IZAAK
